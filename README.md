@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Mes accomplissements :
--https://atomicgame.vercel.app/
+-https://atomicgame.vercel.app/ <br/>
 mon portfolio:
 -https://nkounga42.github.io/portfolio/
