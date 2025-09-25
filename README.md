@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Mes accomplissements :
--[https://game-square-eta.vercel.app/](https://atomicgame.vercel.app/)
+-https://atomicgame.vercel.app/
