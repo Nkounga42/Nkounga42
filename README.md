@@ -1,20 +1,48 @@
-## Hi there 👋
 
-<!--
-**Nkounga42/Nkounga42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Mes accomplissements :
 -https://atomicgame.vercel.app/ <br/>
 mon portfolio:
 -https://nkounga42.github.io/portfolio/
+
+# 👋 Bienvenue sur mon GitHub
+
+Je suis **Nkounga Exaucé**, développeur **Fullstack** passionné par la création d’applications modernes, performantes et accessibles.  
+Mon objectif : transformer des idées en solutions concrètes grâce au code.
+
+---
+
+## 🚀 Ce que je fais
+- 🌐 **Web Apps** avec **React / Blazor / Node.js**
+- 📱 **Applications mobiles** avec **React Native / Expo**
+- 🖥️ **Projets desktop** avec **Electron / python / C# / C++ **
+- ⚙️ **Back-end** avec **Node.js, Express, MongoDB, FireBase , SQLServer, MySQl**
+- 🎨 **UI/UX** avec **Tailwind CSS , DaisyUI , David UI, Radix UI, ShadCn bootstrap**
+
+---
+
+## 📂 Projets récents
+🔹 [**Portfolio**](https://nkounga42.github.io/portfolio) — Mon site personnel  
+🔹 [**Ned Studio**](https://github.com/Nkounga42/Ned-studio) — Application de gestion et d’organisation avec base de données MongoDB  
+🔹 [**atomic game**](https://github.com/Nkounga42/atomic-game) — Plateforme interactive autour des jeux  
+🔹 [**ESCIC Market Place**](https://github.com/Nkounga42/ESCIC-Market-place) — Plateforme d’échange et de vente entre étudiants  
+🔹 [**WidgetHora**](https://github.com/Nkounga42/PYTHON-PROJECT) — Widget horloge pour Windows en **Python + PyQt5**  
+
+---
+
+## 🛠️ Stack technique
+**Langages** : JavaScript (ES6+), TypeScript, Python, C++  
+**Frameworks** : React, Svelte, Node.js, Express  
+**Base de données** : MongoDB, SQLite  
+**Outils** : Git, Vite, Webpack, Electron, nextJs  
+
+---
+
+## 📫 Me contacter
+- 🌍 Portfolio : [nkounga42.github.io/portfolio](https://nkounga42.github.io/portfolio)
+- 📧 Email : *(ajoute ton email si tu veux être contacté)*
+- 💼 LinkedIn : *(ajoute ton lien LinkedIn si tu en as un)*
+
+---
+
+⭐ Si un projet te plaît, pense à le **starrer** pour me soutenir !
+
