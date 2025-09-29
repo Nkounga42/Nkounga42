@@ -39,7 +39,7 @@ Mon objectif : transformer des idées en solutions concrètes grâce au code.
 
 ## 📫 Me contacter
 - 🌍 Portfolio : [nkounga42.github.io/portfolio](https://nkounga42.github.io/portfolio)
-- 📧 Email : *(ajoute ton email si tu veux être contacté)*
+- 📧 Email : nkoungagil@gmail.com
 - 💼 LinkedIn : *(ajoute ton lien LinkedIn si tu en as un)*
 
 ---
