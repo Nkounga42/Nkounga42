@@ -1,9 +1,4 @@
 
-Mes accomplissements :
--https://atomicgame.vercel.app/ <br/>
-mon portfolio:
--https://nkounga42.github.io/portfolio/
-
 # 👋 Bienvenue sur mon GitHub
 
 Je suis **Nkounga Exaucé**, développeur **Fullstack** passionné par la création d’applications modernes, performantes et accessibles.  
