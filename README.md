@@ -21,7 +21,8 @@ Mon objectif : transformer des idées en solutions concrètes grâce au code.
 🔹 [**atomic game**](https://github.com/Nkounga42/atomic-game) — Plateforme interactive autour des jeux  
 🔹 [**ESCIC Market Place**](https://github.com/Nkounga42/ESCIC-Market-place) — Plateforme d’échange et de vente entre étudiants  
 🔹 [**WidgetHora**](https://github.com/Nkounga42/PYTHON-PROJECT) — Widget horloge pour Windows en **Python + PyQt5**  
-
+🔹 [**hache beat cloud**](🔹 [**WidgetHora**](https://github.com/Nkounga42/PYTHON-PROJECT) — Widget horloge pour Windows en **Python + PyQt5**  ) — Widget horloge pour Windows en **Python + PyQt5**  
+ 
 ---
 
 ## 🛠️ Stack technique
