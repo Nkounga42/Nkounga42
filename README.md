@@ -9,7 +9,7 @@ Mon objectif : transformer des idées en solutions concrètes grâce au code.
 ## 🚀 Ce que je fais
 - 🌐 **Web Apps** avec **React / Blazor / Node.js**
 - 📱 **Applications mobiles** avec **React Native / Expo**
-- 🖥️ **Projets desktop** avec **Electron / python / C# / C++ **
+- 🖥️ **Projets desktop** avec ** Electron / python / C# / C++ / php **
 - ⚙️ **Back-end** avec **Node.js, Express, MongoDB, FireBase , SQLServer, MySQl**
 - 🎨 **UI/UX** avec **Tailwind CSS , DaisyUI , David UI, Radix UI, ShadCn bootstrap**
 
