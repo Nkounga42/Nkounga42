@@ -1,5 +1,8 @@
 # 👋 Bienvenue sur mon GitHub !
 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="exaucé-nkounga-b99ab9401" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cg.linkedin.com/in/exauc%C3%A9-nkounga-b99ab9401?trk=profile-badge">exaucé NKOUNGA</a></div>
+              
+
 Je suis **Nkounga Exaucé**, développeur **Fullstack** passionné par la création d’applications modernes, performantes et accessibles.  
 Mon objectif : transformer des idées complexes en solutions concrètes et élégantes.
 
@@ -41,7 +44,7 @@ Mon objectif : transformer des idées complexes en solutions concrètes et élé
 ## 📈 Mes Statistiques GitHub
 ![Stats de Nkounga](https://github-readme-stats.vercel.app/api?username=Nkounga42&show_icons=true&theme=radical)
 
----
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## 📫 Me contacter
 - 🌍 **Portfolio :** [nkounga42.github.io/portfolio](https://nkounga42.github.io/portfolio)
