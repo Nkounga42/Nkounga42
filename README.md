@@ -13,8 +13,7 @@ Mon objectif : transformer des idées complexes en solutions concrètes et élé
 ### 💻 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Logiciel
@@ -48,7 +47,6 @@ Mon objectif : transformer des idées complexes en solutions concrètes et élé
 
 ## 📫 Me contacter
 - 🌍 **Portfolio :** [nkounga42.github.io/portfolio](https://nkounga42.github.io/portfolio)
-- 📧 **Email :** nkoungagil@gmail.com
-- 💼 **LinkedIn :** [Ton Nom](ton-lien)
+- 📧 **Email :** nkoungagil@gmail.com 
 
 ⭐ Si un projet vous intéresse, n'hésitez pas à laisser une étoile !
